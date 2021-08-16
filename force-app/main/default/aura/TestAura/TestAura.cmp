@@ -1,3 +1,4 @@
 <aura:component>
 <h1>Hello world VS code</h1>
+<h3>This was recent addition to the component</h3>
 </aura:component>	
